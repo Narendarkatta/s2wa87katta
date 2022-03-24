@@ -1,3 +1,3 @@
 # server
-# Express server files
+# Heroku server link
 # https://narendar.herokuapp.com/ 
